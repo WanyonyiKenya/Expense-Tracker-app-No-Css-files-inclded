@@ -1,7 +1,7 @@
 import React from "react";
-import Inputform from "./components/Inputform";
-import ExpenseList from "./components/Expenselist";
-import Listhead from "./components/Listhead";
+import Inputform from ".Inputform";
+import ExpenseList from ".Expenselist";
+import Listhead from ".Listhead";
 import { nanoid } from "nanoid";
 
 
